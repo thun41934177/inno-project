@@ -1,5 +1,10 @@
+runprogram
 1 comand terminal :git clone{clone repo}
 2 comand terminal :cd {project factory}
 3 comand terminal:"uv sync"
+4 comand runfile "uv run main.py
 
-runfile "uv run main.py
+edit and uplode to repo
+1 git add .
+2 git commit -m "massage to ..."
+3 git push origin main
