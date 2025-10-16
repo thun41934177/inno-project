@@ -1,3 +1,5 @@
-1. Git clone link
-2. install uv
-3.
+1 comand terminal :git clone{clone repo}
+2 comand terminal :cd {project factory}
+3 comand terminal:"uv sync"
+
+runfile "uv run main.py
